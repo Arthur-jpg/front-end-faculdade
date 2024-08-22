@@ -1,0 +1,33 @@
+Dicas gerais
+    - Provas
+        - Não existe provas
+        - Toda a avaliação é feita por meio das apresentações
+        - Toda semana tem apresentação para mostrar o que cada um fez
+        - As apresentações mensais valem mais pontos
+        - Ap2 é um pitch do projeto
+        - Ap2 é o project demonstration -> protótipo funcional do problema que vamos resolver
+        - O trabalho é todo registrado no github
+        - Nós vamos fazer o grupo
+        - Trabalhar em equipe vai ser complicado
+
+Modelo proposto para desenvolvimento de software
+    - Análise de requisito -> entender o que o cliente precisa
+    - Projeto arquitetural
+    - Projeto do programa
+    - Codificação (é o que a maioria das pessoas fazem hoje em dia)
+
+Conceitos iniciais
+    - Arquitetura (não vamos fazer desse jeito)
+        - código da view (tela que você vai interagir com o modelo), controle (código que você escreve para interagir com o banco de dados) e modelo ()
+    - Arquitetura
+        - Vamos fazer a parte cliente da aplicação (ou seja, o front-end)
+        - Modelo MVVM (Model, View, View, Model)
+        - Vamos desenvolver a parte azul -> view e view model
+        - Quando você coloca um item no carrinho ele não faz isso direto no banco de dados. Essa ação é feita pela view model. Quando você vai fazer a compra, ele verifica no estoqu, ou seja, no banco de dados aí sim que o back-end está envolvido (DataBinding) -> não sabia desse detalhe (muito top)
+
+Ferramentas
+    - github
+    - Vscode
+    - Navegador
+    - Node (Interpretador em js)
+    - React (É um framework -> conjunto de classes que você pode usar para usar o seu projeto / O react não é um conjunto de classes, é um conjunto de ferramentas. Single page app é quando o app é carregado somente uma única vez e simula a navegação entre outras páginas, possibilitando ser mais rápida a performance do app)
