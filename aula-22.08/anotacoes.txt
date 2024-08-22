@@ -30,4 +30,4 @@ Ferramentas
     - Vscode
     - Navegador
     - Node (Interpretador em js)
-    - React (É um framework -> conjunto de classes que você pode usar para usar o seu projeto / O react não é um conjunto de classes, é um conjunto de ferramentas. Single page app é quando o app é carregado somente uma única vez e simula a navegação entre outras páginas, possibilitando ser mais rápida a performance do app)
+    - React (É um framework -> conjunto de classes que você pode usar para usar o seu projeto / O react não é um conjunto de classes, é um conjunto de ferramentas. Single page app é quando o app é carregado somente uma única vez e simula a navegação entre outras páginas, possibilitando ser mais rápida a performance do app - O modelo oficial)
