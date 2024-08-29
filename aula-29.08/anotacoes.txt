@@ -27,5 +27,6 @@ Git - básico
             - Modificar
             - Preparar
             - Fazer commit
-            
+    - Comandos
+    
 
