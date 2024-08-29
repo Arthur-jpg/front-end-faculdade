@@ -1,0 +1,31 @@
+Projeto
+- Fazer um sistema para cadastrar os projetos
+- Um site para ver os projetos
+- Dados -> quem participou, empresa parceira
+- Tem que ter mais de uma view
+- O aluno pode criar um link para poder ver os projetos dele e usar como curriculo
+- Tem que ter a identidade visual do ibmec
+- Quem está olhando tem que ficar seduzido pelo o que o aluno fez
+- Queremos detalhes do projeto do aluno, grupo etc
+- Uma das views que ele quer é uma homepage co vários projetos e que ele consiga scrollar para ver mais
+- A pessoa que está procurando precisa ficar tentada a ver mais projetos que o aluno fez
+- Legal -> dar para cadastrar projetos novos
+
+
+Git - básico
+    - Se eu for modificar alguma coisa no arquivo eu bloqueio para ninguem modificar tb
+    - Controle do estado de arquivo
+        - Toda vez que você for modificar o arquivo você baixa a versão mais nova dele para n ter problema de versão
+        - MD5 -> algorítimos para gerar hash (um número que representa algo)
+            - Você passa um dado para o mad5 e ele te dá um número de 128 bits
+            - Se você quiser o dado novamente você só consegue se tiver a sequência de 128 bits novamente
+        - O git olha para o arquivo de 3 formas
+            - Versionado()commited() -> quando está up to date
+            - modificado(modified) -> quando está vermelho
+            - preparado(staged) -> quando ta verdinho 
+        - Fluxo base de trabalho
+            - Modificar
+            - Preparar
+            - Fazer commit
+            
+
