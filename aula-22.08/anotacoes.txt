@@ -31,3 +31,9 @@ Ferramentas
     - Navegador
     - Node (Interpretador em js)
     - React (É um framework -> conjunto de classes que você pode usar para usar o seu projeto / O react não é um conjunto de classes, é um conjunto de ferramentas. Single page app é quando o app é carregado somente uma única vez e simula a navegação entre outras páginas, possibilitando ser mais rápida a performance do app - O modelo oficial)
+
+Estrutura do projeto
+    - Estrutura normal do react
+    - O login é feito pelo firebase com autenticação configurada
+    - A ideia do projeto base é que podemos usar ele como base para qualquer coisa
+    
