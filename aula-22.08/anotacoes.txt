@@ -36,4 +36,3 @@ Estrutura do projeto
     - Estrutura normal do react
     - O login é feito pelo firebase com autenticação configurada
     - A ideia do projeto base é que podemos usar ele como base para qualquer coisa
-    
