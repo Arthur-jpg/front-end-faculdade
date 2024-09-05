@@ -10,6 +10,12 @@ Projeto
 - Uma das views que ele quer é uma homepage co vários projetos e que ele consiga scrollar para ver mais
 - A pessoa que está procurando precisa ficar tentada a ver mais projetos que o aluno fez
 - Legal -> dar para cadastrar projetos novos
+- Algum administrador que vai adicionar os projetos dos alunos
+- O protifólio de projetos dos PROJETOS -> a ideia é que quando a pessoa entrar ela vai ver os projetos, ela tem que perceber quem são as pessoas que participaram do projeto
+- Não sabe se vai precisar de uma landing page -> pode ter uma landing page mas não sabe se vai ser necessário
+- Não vai ter interação do usuário, é só uma listagem dos projetos
+- Quando o administrador for cadastrar o aluno, precisa ter o nome, curso, importante saber do vínculo do aluno com a faculdade durante a realização do projeto
+
 
 
 Git - básico
