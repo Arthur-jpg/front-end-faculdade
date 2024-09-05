@@ -15,6 +15,8 @@ Projeto
 - Não sabe se vai precisar de uma landing page -> pode ter uma landing page mas não sabe se vai ser necessário
 - Não vai ter interação do usuário, é só uma listagem dos projetos
 - Quando o administrador for cadastrar o aluno, precisa ter o nome, curso, importante saber do vínculo do aluno com a faculdade durante a realização do projeto
+- Filtros: filtrar por tecnologia, curso
+- Página inicial tem que ter os projetos
 
 
 
